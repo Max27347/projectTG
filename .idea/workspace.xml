@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0111eff-d996-45e3-b53d-b60b099f0869" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/ggg-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/clicks.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/boss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/dragon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/fonts/lilitaone-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/fonts/pusia-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/ananas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/ananas_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/angel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/batterfly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/bling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/boss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/boss1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/boss2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/box_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/box_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/box_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/box_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/brawl_stars_lobby.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/bubble.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/button_menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/button_menu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/castle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/china.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/click.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/coin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/colt_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/cosmos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/cot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/croco.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/crow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/crow_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/dark_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/dark_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/dragon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/drako.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/dyno_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/edgar_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/energy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/energy_regen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/fire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/fire_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/fish_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/fon_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/fon_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/fon_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/friends_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/friends_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/friends_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/friends_72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/frog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/frog_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/ghost_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/gift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/god_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/golem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/groot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/heart_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/hogwarts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/ice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/jackpot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/leaf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/leon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/leon_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/magic_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/minecraft.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/minion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/mystical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/ninja_world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/piper_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/pirate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/pixel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/plat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/play2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/pumpkin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/quests.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/quests2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/rai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/rude.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/shop2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/spider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/spike_av.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/star_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/stone_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/syth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/theme_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/theme_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/theme_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/theme_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/theme_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/theme_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/top_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/tor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/water_effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/water_world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/wheel_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/images/witch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_autoclicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_box.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_heroes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_new.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_up_energy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_up_recovery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/script_wheel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/_nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/fons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/page9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/upgrade.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/brawl_clicker-master/templates/world_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/clicks.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ggg-main/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2uDgJGKdfeEd8RcjaMnMWPlEuB7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/heroes",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0111eff-d996-45e3-b53d-b60b099f0869" name="Changes" comment="" />
+      <created>1741788485023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741788485023</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1741790560579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741790560579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1741790755284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741790755284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+</project>
